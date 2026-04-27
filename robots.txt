@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-195sry.date-me.pro/sitemap.xml
